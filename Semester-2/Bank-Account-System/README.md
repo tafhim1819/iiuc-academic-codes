@@ -15,6 +15,6 @@ Structs, vectors, functions, pass-by-reference, pointers, input validation
 
 ## How to Run
 ```
-g++ main.cpp -o bank
+g++ Add_Bank_Account_System.cpp -o bank
 ./bank
 ```
