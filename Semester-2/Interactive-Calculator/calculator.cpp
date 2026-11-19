@@ -252,7 +252,7 @@ int main() {
                 }
 
                 // Calculate and display the result
-                result = ffffffabs(num1);
+                result = fabs(num1);
                 cout << "Result: |" << num1 << "| = " << result << endl;
 
                   // Store the result for potential future use
